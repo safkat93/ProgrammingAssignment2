@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## https://github.com/safkat93/ProgrammingAssignment2.git
+## Week 3 Assignment : Lexical Scoping 
 
 ## New special function "matrix" has been created to cache makeCacheMatrix inverse
 ## Following list contains

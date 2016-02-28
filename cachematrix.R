@@ -1,5 +1,5 @@
 ## https://github.com/safkat93/ProgrammingAssignment2.git
-## My first SHA-1 hash commit: 9f3183e7e57cd49737703aa64d305672fa9a2a50
+## My first SHA-1 hash commit: d60970e03e5c45bfc428673f1cf0cdbeb9d1674d
 ## Week 3 Assignment : Lexical Scoping 
 
 ## New special function "matrix" has been created to cache makeCacheMatrix inverse
